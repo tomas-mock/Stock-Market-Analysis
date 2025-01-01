@@ -40,7 +40,7 @@ By integrating historical data with statistical techniques, this analysis provid
   - `matplotlib` and `seaborn` for visualizations
   - `scikit-learn` for predictive modeling
   - `statsmodels` for statistical analysis
-- **Tools**: Jupyter Notebook, Excel
+- **Tools**: Jupyter Notebook, 
 
 ---
 
